@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19001dfe-e71c-413a-a38a-ad7e0c43b672": {
+      "ProjectGuid": "19001dfe-e71c-413a-a38a-ad7e0c43b672",
+      "DisplayName": "ManagedUI",
+      "ColorIndex": 0
+    },
+    "da23d37f-5687-429b-8600-e8306e84ef88": {
+      "ProjectGuid": "da23d37f-5687-429b-8600-e8306e84ef88",
+      "DisplayName": "ManagedUIDemo",
+      "ColorIndex": 1
+    },
+    "ebfbb809-2314-4026-861d-16427aee64dc": {
+      "ProjectGuid": "ebfbb809-2314-4026-861d-16427aee64dc",
+      "DisplayName": "ManagedUIUtilities",
+      "ColorIndex": 2
+    },
+    "e50460e6-1533-47d1-9f85-7353be4c1c7c": {
+      "ProjectGuid": "e50460e6-1533-47d1-9f85-7353be4c1c7c",
+      "DisplayName": "MyProject",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
